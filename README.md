@@ -1,1 +1,1 @@
-# dsa_using_java
+# data structures and algorithms using java
